@@ -2,7 +2,7 @@ package inheritance.com;
 
 import java.util.HashMap;
 import java.util.Map;
-
+import java.util.*;
 class CollectionMap {
 
 	public static void main(String args[]) {
